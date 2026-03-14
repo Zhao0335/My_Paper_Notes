@@ -58,6 +58,4 @@ As a freshman, I have a limited understanding of academic papers, and there may 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.doubao.cn) file for details.
-
-> （注：文档部分内容可能由 AI 生成）
+This project is licensed under the MIT License - see the [LICENSE] file for details.
